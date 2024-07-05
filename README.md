@@ -1,4 +1,4 @@
-# Customer-Purchase-Behavior-Analysis
+# Customer Purchase Behavior Analysis
 ![superstore gif](https://github.com/ShubhPathania/Customer-Purchase-Behavior-Analysis/assets/149718190/37c044f0-74bb-4267-86c6-2640b60e9105)
 
 # Introduction:
