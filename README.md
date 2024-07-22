@@ -45,3 +45,5 @@ This analysis of customer purchase behavior data provided valuable insights for 
 ![image](https://github.com/ShubhPathania/Bike-Sharing-Demand-Prediction/assets/149718190/7927a88c-33a9-4043-9114-1cf2f4c9065f)
 ![image](https://github.com/ShubhPathania/Bike-Sharing-Demand-Prediction/assets/149718190/4048a336-dde2-432a-8aa8-a82f827eb7da)
 ![image](https://github.com/ShubhPathania/Bike-Sharing-Demand-Prediction/assets/149718190/147663e0-f428-467a-be15-ed06ca4f1986)
+![scipy (1)](https://github.com/user-attachments/assets/d3e25598-5846-458d-b071-efb436d53134)
+
