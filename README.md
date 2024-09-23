@@ -1,5 +1,8 @@
 # Customer Purchase Behavior Analysis
-![superstore gif](https://github.com/ShubhPathania/Customer-Purchase-Behavior-Analysis/assets/149718190/37c044f0-74bb-4267-86c6-2640b60e9105)
+
+<p align="center">
+ <img src="https://github.com/ShubhPathania/Customer-Purchase-Behavior-Analysis/assets/149718190/37c044f0-74bb-4267-86c6-2640b60e9105"
+<p/>
 
 # Introduction
 This project analyzes customer purchase behavior data to identify patterns and trends that can inform marketing strategies and increase offer acceptance rates. By understanding customer demographics, spending habits and preferred purchase modes, the company can optimize its marketing efforts and target the right customers with the right offers.
@@ -11,7 +14,7 @@ The challenge lies in maximizing customer engagement and offer acceptance throug
 - **Basic Cleanup:** Checked for missing, duplicated values and removed outliers.
 -  **Feature Engineering:** Feature Engineered 'age' column and 'Total Amount Spent' column to capture more nuances in the analysis.
 -  **Descriptive Statistics:** Conducted detailed analysis using measures of central tendency and dispersion to understand customer profiles and spending patterns. Analyzed distribution of customer demographics (age, education, marital status) using descriptive statistics and visualizations.
-- **Probability Distributions** Utilized hypothesis testing, including the Shapiro-Wilk test for normality, to analyze data distributions and infer insights.
+- **Probability Distributions** Utilized hypothesis testing, including the ***Shapiro-Wilk test for normality***, to analyze data distributions and infer insights.
 
 # 🔑 Key Insights
 - **Spending by Demographics:** Age and education influence total spending, while age group impacts average spending. Understanding these demographic factors can help tailor marketing strategies effectively.
